@@ -9,3 +9,13 @@ git config --global http.proxy proxy-cdb.ad.campus-eni.fr:8080
 git config --global https.proxy proxy-cdb.ad.campus-eni.fr:8080
 
 git clone https://username@github.com/Antony-Eliga/Event4U.git
+
+## Tasks
+
+* Contexte
+* Définition du besoin
+* Spécification fonctionnelle (maquette)
+* Spécification technique
+* Réalisation
+* Conclusion
+
