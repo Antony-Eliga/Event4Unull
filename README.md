@@ -7,3 +7,5 @@ Projet ENI
 git config --global http.proxy proxy-cdb.ad.campus-eni.fr:8080
 
 git config --global https.proxy proxy-cdb.ad.campus-eni.fr:8080
+
+git clone https://username@github.com/Antony-Eliga/Event4U.git
